@@ -1,0 +1,1 @@
+This is my first web page project with the Odin Project. I mostly know HTML and CSS, practicing mostly on my JavaScript and terminal commands as well as using GitHub.
